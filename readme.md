@@ -5,5 +5,8 @@ AWS lambda上で動作するLINE Botです。
 # アーキテクチャ
 Line ⇨ lambda ⇨　dynamodb
 
+# ホームページ
+https://gucchikun.my.canva.site/
+
 # License
 MIT License
